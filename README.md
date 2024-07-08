@@ -15,6 +15,9 @@ This project is a real-time location tracker web application built using Node.js
 - **Frontend:** HTML, CSS, JavaScript
 - **Mapping Library:** Leaflet
 
+ ## Deployment Link 
+https://location-detector-68q1.onrender.com/
+
 ## Setup Instructions
 
 1. **Clone the repository:**
