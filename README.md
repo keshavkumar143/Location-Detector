@@ -47,10 +47,6 @@ This project is a real-time location tracker web application built using Node.js
 
 Contributions are welcome! Please fork the repository and create a pull request with your improvements.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ---
 
 Feel free to customize the content based on specific details of your project and any additional features or setup instructions you might have. This template provides a basic structure covering the project description, features, setup instructions, usage guidelines, and information about contributing and licensing.
