@@ -51,5 +51,3 @@ https://location-detector-68q1.onrender.com/
 Contributions are welcome! Please fork the repository and create a pull request with your improvements.
 
 ---
-
-Feel free to customize the content based on specific details of your project and any additional features or setup instructions you might have. This template provides a basic structure covering the project description, features, setup instructions, usage guidelines, and information about contributing and licensing.
